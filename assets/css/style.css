@@ -34,7 +34,16 @@ button{
 .error {
 	color:red !important;
 }
+.jumbotron {
+   	color: white;
+    background-size: cover;
+    background-color: black;
+}
 #addEmployee {
 	margin-left:10px;
 
+}
+h1{
+	font-weight: bolder;
+  	font-size: 65px;
 }
