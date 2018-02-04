@@ -1,6 +1,6 @@
 # Train_Time_Table
 
-## Trains scheduler with information on next arrival along with the time left for the next arrival updated as and when screen refreshes
+Trains scheduler with information on next arrival along with the time left for the next arrival updated as and when screen refreshes
 
 ## Getting Started 
 
